@@ -30,7 +30,7 @@ import random
 
 # Defines main function
 def main():
-    print('Inside Main') # Debug
+    # print('Inside Main') # Debug
 
     inputChoice = playerInput()
     choicePlayer = playerChoice(inputChoice)
